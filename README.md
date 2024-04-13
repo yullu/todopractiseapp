@@ -4,9 +4,9 @@ Todo Application is powered by Laravel is a web application framework with expre
 
 ## Features that the Todo Appplication contains
 
-Add new Todo Activity
-Mark Todo Activity completed
-Delete Todo Activity
+- Add new Todo Activity
+- Mark Todo Activity completed
+- Delete Todo Activity
 
 ![A test image](image.png)
 
