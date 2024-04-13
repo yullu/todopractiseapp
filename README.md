@@ -8,6 +8,8 @@ Add new Todo Activity
 Mark Todo Activity completed
 Delete Todo Activity
 
+![A test image](image.png)
+
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
